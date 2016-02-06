@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Sky Jumper</string>
+    <!-- Replace with your ad -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="background_desc">Game background</string>
+
+    <string name="start_dialog_small_desc">Tab &#038; hold to move hero</string>
+    <string name="start_dialog_left_desc">Tab &#038; hold left\n to move left</string>
+    <string name="start_dialog_right_desc">Tab &#038; hold right\n to move right</string>
+
+    <string name="paused_dialog_main_text">Paused</string>
+    <string name="paused_dialog_detail_text">Press anywhere on screen to resume</string>
+
+    <string name="tv_finish_score">Score</string>
+    <string name="tv_finish_max_score">Max Score</string>
+    <string name="tv_finish_game_over">Game Over</string>
+    <string name="btn_finish_restart">Restart</string>
+
+    <string name="title_activity_scoreboard">Scoreboard</string>
+    <string name="iv_scoreboard_badge_desc">Badge</string>
+
+    <string name="integer_place_holder">%1$d</string>
+
+</resources>
