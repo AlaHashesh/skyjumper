@@ -14,5 +14,7 @@ Imagine a vertical line splitting the screen into a left and a right part.
 2. Tap & hold the left side to move Lucky to the left.
 3. Enjoy the game.
 
+You may use anything in this code as a guide for a little price (which is to try the game :p)
+
 Game link on the play store:
 https://play.google.com/store/apps/details?id=alahashesh.com.skyjumper
